@@ -13,4 +13,4 @@ for (var i = 0; i < input.length; i++) {
   console.log(output += input[i]);
   };
 }
-document.getElementById("challenge3").innerHTML= output + "!";
+document.getElementById("challenge3").innerHTML= "The answer to Programming Challenge 3 is: " + output + "!";
