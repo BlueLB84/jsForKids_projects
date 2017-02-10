@@ -2,8 +2,8 @@
 
 ## Programming Challenges and Answers
 
-### Chapter 6 
-## Programming Challenge 3
+## Chapter 6 
+### Programming Challenge 3
 [Answer](https://bluelb84.github.io/jsForKids_projects/programming_challenges/index.html)
 [script.js](https://bluelb84.github.io/jsForKids_projects/programming_challenges/script.js)
 
